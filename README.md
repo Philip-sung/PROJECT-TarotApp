@@ -1,79 +1,43 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# 01 Introduction
+## 01.01 Purpose
+This Application is test version of Tarot and Shoppingmall / Academy app<br>
+Scheduled for update continuosly.
+**!Ongoing project**
 
-# Getting Started
+## 01.02 TechStack
+TypeScript
+React Native
+Apollo GraphQL
+React Native Skia
+Recoil
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+<br>
+***
+# 02 Composition
+## 02.01 Main Page
+![01_Main](https://github.com/Philip-sung/PROJECT-PServer-V02/assets/75019527/818ce723-cf50-44ad-96d9-618805c56fa0)
 
-## Step 1: Start the Metro Server
+![01_SubMain](https://github.com/Philip-sung/PROJECT-PServer-V02/assets/75019527/591177f7-e4c4-4da2-87b6-0591d992574f)
 
-First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
+## 02.02 Onestop Page(Shopping Page)
+![02_Onestop](https://github.com/Philip-sung/PROJECT-PServer-V02/assets/75019527/a8c3a5fe-99e6-4078-9712-d737832f55a8)
 
-To start Metro, run the following command from the _root_ of your React Native project:
+## 02.03 Tarot Page(+Astrology)
+![03_Tarot](https://github.com/Philip-sung/PROJECT-PServer-V02/assets/75019527/0a017bd2-2dee-442a-8527-d0ab0d5e56a8)
 
-```bash
-# using npm
-npm start
+![03_Astrology](https://github.com/Philip-sung/PROJECT-PServer-V02/assets/75019527/6ddc64d2-3ffc-4761-a857-c02866476d61)
 
-# OR using Yarn
-yarn start
-```
+## 02.04 Academy Page
+![04_Academy](https://github.com/Philip-sung/PROJECT-PServer-V02/assets/75019527/e5c23568-cce3-4675-bfc7-bf3538d96e3d)
 
-## Step 2: Start your Application
+![05_Article](https://github.com/Philip-sung/PROJECT-PServer-V02/assets/75019527/da7cca46-dbae-43d4-a0b3-7fc0059a66de)
 
-Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
+![06_MyAcademy](https://github.com/Philip-sung/PROJECT-PServer-V02/assets/75019527/e2e36913-a46c-42be-8d3f-f7788230988c)
 
-### For Android
+## 02.05 Social Network Page
+![07_Feed](https://github.com/Philip-sung/PROJECT-PServer-V02/assets/75019527/8af2e29e-4035-4b22-a6a1-4915f040b39a)
 
-```bash
-# using npm
-npm run android
+![08_MyFeed](https://github.com/Philip-sung/PROJECT-PServer-V02/assets/75019527/98c98e03-dff9-4f77-a13c-b9a15405b537)
 
-# OR using Yarn
-yarn android
-```
-
-### For iOS
-
-```bash
-# using npm
-npm run ios
-
-# OR using Yarn
-yarn ios
-```
-
-If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
-
-This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
-
-## Step 3: Modifying your App
-
-Now that you have successfully run the app, let's modify it.
-
-1. Open `App.tsx` in your text editor of choice and edit some lines.
-2. For **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Developer Menu** (<kbd>Ctrl</kbd> + <kbd>M</kbd> (on Window and Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (on macOS)) to see your changes!
-
-   For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
-
-## Congratulations! :tada:
-
-You've successfully run and modified your React Native App. :partying_face:
-
-### Now what?
-
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
-
-# Troubleshooting
-
-If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
-
-# Learn More
-
-To learn more about React Native, take a look at the following resources:
-
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+## 02.06 Post
+![09_Post](https://github.com/Philip-sung/PROJECT-PServer-V02/assets/75019527/6710c4d1-a15b-43e2-965c-70e01ff9bc9d)

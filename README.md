@@ -1,18 +1,20 @@
 # 01 Introduction
 ## 01.01 Purpose
 This Application is test version of Tarot and Shoppingmall / Academy app<br>
-Scheduled for update continuosly.
+Scheduled for update continuosly.<br>
 **!Ongoing project**
 
-## 01.02 TechStack
-TypeScript
-React Native
-Apollo GraphQL
-React Native Skia
-Recoil
+## 01.02 Main TechStack
+- TypeScript
+- React Native
+- Apollo GraphQL
+- React Native Skia
+- Recoil
 
 <br>
+
 ***
+
 # 02 Composition
 ## 02.01 Main Page
 
